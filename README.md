@@ -10,3 +10,6 @@ R Programming
    * corr.R
    * my answers were slightly off from their answers and I'd like to figure out why... at some point!
 
+2. Assignment 2: Cache Matrix
+   *CacheMatrix.R
+
